@@ -1,0 +1,18 @@
+/** my style */
+.login , .addCar , .cats , .cats , .contact , .addCategory{
+    margin-top: 50px;
+
+}
+.addCar{
+    margin-bottom: 100px;
+}
+.my-card
+{
+    position:absolute;
+    left:40%;
+    top:-20px;
+    border-radius:50%;
+}
+.addCats , .editContact , .editor{
+    margin-bottom: 20px;
+}
